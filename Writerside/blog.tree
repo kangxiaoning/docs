@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="blog"
+                 name="南寨小子"
+                 start-page="etcd-watch.md">
+
+    <toc-element topic="Etcd.md">
+        <toc-element topic="etcd-watch.md" toc-title="Etcd的Watch实现分析"/>
+    </toc-element>
+</instance-profile>
